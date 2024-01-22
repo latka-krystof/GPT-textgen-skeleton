@@ -10,7 +10,7 @@ We recommend using Kaggle for training, because it allows you to access GPU runt
 
 1. Navigate to [Kaggle](https://www.kaggle.com/). Click on "Create" and "New notebook" to create a new notebook.
 
-2. Upload your Jupyter Notebook `training.ipynb` from your cloned GitHub repository.
+2. Import your Jupyter Notebook `training.ipynb` from your cloned GitHub repository using File > Import Notebook.
 
 3. Load your input text file (`tiny_shakespeare.txt` or other) into the `/kaggle/input` folder.
 
